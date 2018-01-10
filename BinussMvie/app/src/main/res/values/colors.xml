@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="click_start_color">#FF5722</color>
+    <color name="click_end_color">#FFEB3B</color>
+    <color name="click_end_color_bg">#2EF4AB</color>
+    <color name="click_start_color_bg">#2EF4AB</color>
+    <color name="white">#26c98d</color>
+</resources>

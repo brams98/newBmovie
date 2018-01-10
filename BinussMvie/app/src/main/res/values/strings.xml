@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Binus Movie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Store location</string>
+    <string name="logoutBtn">Logout</string>
+    <string name="test">Test text string</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
